@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|c:\\dev\\tp3-veuille technologique\\notes-api\\notes-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|solutionrelative:notes-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|c:\\dev\\tp3-veuille technologique\\notes-api\\notes-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|solutionrelative:notes-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|c:\\dev\\tp3-veuille technologique\\notes-api\\notes-api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|solutionrelative:notes-api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|c:\\dev\\tp3-veuille technologique\\notes-api\\notes-api\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|solutionrelative:notes-api\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|c:\\dev\\tp3-veuille technologique\\notes-api\\notes-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31AA417-C243-4785-B987-10F7E07F1CEC}|notes-api\\notes-api.csproj|solutionrelative:notes-api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Program.cs",
+              "RelativeDocumentMoniker": "notes-api\\Program.cs",
+              "ToolTip": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Program.cs",
+              "RelativeToolTip": "notes-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:16:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\appsettings.json",
+              "RelativeDocumentMoniker": "notes-api\\appsettings.json",
+              "ToolTip": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\appsettings.json",
+              "RelativeToolTip": "notes-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-27T22:16:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "notes-api\\Models\\Note.cs",
+              "ToolTip": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Models\\Note.cs",
+              "RelativeToolTip": "notes-api\\Models\\Note.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:16:38.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Interfaces\\INoteService.cs",
+              "RelativeDocumentMoniker": "notes-api\\Interfaces\\INoteService.cs",
+              "ToolTip": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Interfaces\\INoteService.cs",
+              "RelativeToolTip": "notes-api\\Interfaces\\INoteService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:16:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "notes-api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Dev\\TP3-Veuille technologique\\notes-api\\notes-api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "notes-api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T22:16:24.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
